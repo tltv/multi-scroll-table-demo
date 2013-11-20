@@ -8,9 +8,9 @@ Demo application for multi-scroll-table project
 How to build and run
 --------------------
 
-git clone <url of the repository>
-mvn clean install
-mvn jetty:run
+* git clone <url of the repository>
+* mvn clean install
+* mvn jetty:run
 	  
 	
 ------------
